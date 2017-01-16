@@ -1,9 +1,7 @@
 # javascript-practices
 [![Build Status][travis-image]][travis-url]
-[![Coveralls Status][coveralls-image]][coveralls-url]
-[![Dependency Status][depstat-image]][depstat-url]
 
-> Description
+> Some examples and basics about JS
 
 ## Test
 
