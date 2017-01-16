@@ -13,7 +13,7 @@ describe('javascriptPractices', () => {
     });
   });
   describe('prototypalInheritance', () => {
-    it('should be return name with This and whithout This', () => {
+    it('should be return a student instanceof Person', () => {
       expect(prototypal_inheritance.myStudent.firstname).equals("Axel");
       expect(prototypal_inheritance.myStudent.lastname).equals("Monroy");
       expect(prototypal_inheritance.myStudent.card).equals(123);
